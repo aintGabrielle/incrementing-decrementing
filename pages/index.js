@@ -22,6 +22,7 @@ const Home = ({}) => {
               Decrement
             </button>
           </div>
+          <p className="text-center text-5xl font-semibold">This is updated</p>
         </section>
       </main>
     </>
